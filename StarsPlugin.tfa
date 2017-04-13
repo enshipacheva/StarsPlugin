@@ -1,0 +1,5 @@
+[32F0C0D7-F516-4b69-837F-F146265981EB]
+dll=StarsPlugin.dll
+name=Пример приложения к T-FLEX CAD
+autostart=1
+managed=1
